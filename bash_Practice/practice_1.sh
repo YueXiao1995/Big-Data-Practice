@@ -95,4 +95,4 @@ date
 echo "today is $(date)"
 echo $?
 
-mysql -h localhost -u root -p -D "world" -e "show tables"
+mysql -h localhost -u root -p950918 -D "world" -e "show tables"
